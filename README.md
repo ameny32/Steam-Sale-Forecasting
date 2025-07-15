@@ -66,10 +66,12 @@ File Structure
 
 Setup Instructions
 1. Install Requirements
-    pip install pandas sqlalchemy psycopg2-binary scikit-learn matplotlib seaborn streamlit
 
-2. Configure PostgreSQL
-    Update src/config.py with your PostgreSQL credentials and ensure a database named steam_sales is created.
+   pip install pandas sqlalchemy psycopg2-binary scikit-learn matplotlib seaborn streamlit
+
+3. Configure PostgreSQL
+
+   Update src/config.py with your PostgreSQL credentials and ensure a database named steam_sales is created.
 
     DB_USER = 'your_username'
     DB_PASSWORD = 'your_password'
@@ -78,8 +80,9 @@ Setup Instructions
     DB_NAME = 'steam_sales'
 
 
-3. Run Project Scripts in Order
-    python src/etl_pipeline.py         # Loads CSV into the database
+5. Run Project Scripts in Order
+
+   python src/etl_pipeline.py         # Loads CSV into the database
     python src/data_cleaning.py        # Performs feature engineering
     python src/model_training.py       # Trains models and prints metrics
     python src/visualize_results.py    # Generates static charts
