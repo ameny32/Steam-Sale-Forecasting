@@ -1,0 +1,98 @@
+game,base_price,discount,sale_price,sale_type,sale_date
+Elden Ring,50.42,50,25.21,Daily Deal,2023-01-01
+Elden Ring,50.42,50,25.21,Winter Sale,2023-02-15
+Elden Ring,50.42,60,20.17,Winter Sale,2023-05-03
+Elden Ring,50.42,30,35.29,Winter Sale,2023-07-30
+Elden Ring,50.42,40,30.25,Winter Sale,2023-10-20
+Elden Ring,50.42,30,35.29,Steam Summer Sale,2024-01-16
+Elden Ring,50.42,30,35.29,Winter Sale,2024-03-04
+Elden Ring,50.42,20,40.34,Steam Summer Sale,2024-04-04
+Elden Ring,50.42,40,30.25,Game Awards,2024-07-01
+Elden Ring,50.42,60,20.17,Game Awards,2024-09-20
+Cyberpunk 2077,51.67,30,36.17,Daily Deal,2023-01-01
+Cyberpunk 2077,51.67,60,20.67,Daily Deal,2023-04-01
+Cyberpunk 2077,51.67,50,25.83,Steam Summer Sale,2023-06-25
+Cyberpunk 2077,51.67,60,20.67,Winter Sale,2023-08-03
+Cyberpunk 2077,51.67,20,41.34,Game Awards,2023-10-08
+Cyberpunk 2077,51.67,20,41.34,Steam Summer Sale,2023-12-04
+Red Dead Redemption 2,60.76,10,54.68,Daily Deal,2023-01-01
+Red Dead Redemption 2,60.76,40,36.46,Publisher Weekend,2023-03-06
+Red Dead Redemption 2,60.76,10,54.68,Publisher Weekend,2023-05-25
+Red Dead Redemption 2,60.76,10,54.68,Publisher Weekend,2023-08-04
+Red Dead Redemption 2,60.76,40,36.46,Steam Summer Sale,2023-10-29
+Red Dead Redemption 2,60.76,10,54.68,Publisher Weekend,2023-12-04
+Red Dead Redemption 2,60.76,50,30.38,Daily Deal,2024-02-21
+Red Dead Redemption 2,60.76,40,36.46,Game Awards,2024-04-03
+Red Dead Redemption 2,60.76,50,30.38,Winter Sale,2024-06-03
+The Witcher 3,65.75,20,52.6,Game Awards,2023-01-01
+The Witcher 3,65.75,60,26.3,Daily Deal,2023-04-01
+The Witcher 3,65.75,50,32.87,Publisher Weekend,2023-06-21
+The Witcher 3,65.75,20,52.6,Daily Deal,2023-09-05
+The Witcher 3,65.75,20,52.6,Publisher Weekend,2023-11-16
+Stardew Valley,31.81,70,9.54,Steam Summer Sale,2023-01-01
+Stardew Valley,31.81,30,22.27,Steam Summer Sale,2023-03-05
+Stardew Valley,31.81,10,28.63,Daily Deal,2023-06-03
+Stardew Valley,31.81,70,9.54,Game Awards,2023-08-24
+Stardew Valley,31.81,70,9.54,Publisher Weekend,2023-11-22
+Stardew Valley,31.81,60,12.72,Game Awards,2024-02-09
+Stardew Valley,31.81,10,28.63,Winter Sale,2024-03-12
+Stardew Valley,31.81,60,12.72,Winter Sale,2024-05-09
+Stardew Valley,31.81,60,12.72,Daily Deal,2024-07-06
+Hogwarts Legacy,36.51,10,32.86,Game Awards,2023-01-01
+Hogwarts Legacy,36.51,60,14.6,Winter Sale,2023-03-30
+Hogwarts Legacy,36.51,60,14.6,Game Awards,2023-06-20
+Hogwarts Legacy,36.51,30,25.56,Publisher Weekend,2023-09-01
+Hogwarts Legacy,36.51,50,18.26,Publisher Weekend,2023-10-11
+Hogwarts Legacy,36.51,60,14.6,Game Awards,2023-12-21
+Hogwarts Legacy,36.51,20,29.21,Publisher Weekend,2024-03-10
+Hogwarts Legacy,36.51,30,25.56,Daily Deal,2024-04-23
+Hogwarts Legacy,36.51,20,29.21,Steam Summer Sale,2024-06-11
+Hogwarts Legacy,36.51,10,32.86,Daily Deal,2024-08-15
+Resident Evil Village,55.76,10,50.18,Steam Summer Sale,2023-01-01
+Resident Evil Village,55.76,30,39.03,Game Awards,2023-03-16
+Resident Evil Village,55.76,50,27.88,Publisher Weekend,2023-04-18
+Resident Evil Village,55.76,60,22.3,Daily Deal,2023-07-01
+Resident Evil Village,55.76,50,27.88,Winter Sale,2023-08-15
+Resident Evil Village,55.76,30,39.03,Winter Sale,2023-10-31
+Resident Evil Village,55.76,60,22.3,Winter Sale,2023-12-02
+Resident Evil Village,55.76,30,39.03,Steam Summer Sale,2024-02-25
+Resident Evil Village,55.76,10,50.18,Game Awards,2024-04-30
+Resident Evil Village,55.76,60,22.3,Winter Sale,2024-06-18
+Terraria,26.72,40,16.03,Daily Deal,2023-01-01
+Terraria,26.72,20,21.38,Publisher Weekend,2023-03-29
+Terraria,26.72,70,8.02,Daily Deal,2023-05-11
+Terraria,26.72,40,16.03,Publisher Weekend,2023-07-01
+Terraria,26.72,50,13.36,Steam Summer Sale,2023-08-21
+Terraria,26.72,60,10.69,Game Awards,2023-11-08
+Terraria,26.72,40,16.03,Publisher Weekend,2023-12-13
+Terraria,26.72,70,8.02,Publisher Weekend,2024-02-13
+Dark Souls III,50.13,20,40.1,Winter Sale,2023-01-01
+Dark Souls III,50.13,50,25.06,Daily Deal,2023-03-30
+Dark Souls III,50.13,50,25.06,Daily Deal,2023-05-22
+Dark Souls III,50.13,20,40.1,Steam Summer Sale,2023-08-18
+Dark Souls III,50.13,60,20.05,Steam Summer Sale,2023-10-28
+Dark Souls III,50.13,40,30.08,Steam Summer Sale,2024-01-02
+Dark Souls III,50.13,20,40.1,Game Awards,2024-02-28
+Dark Souls III,50.13,40,30.08,Steam Summer Sale,2024-04-05
+Dark Souls III,50.13,50,25.06,Publisher Weekend,2024-05-10
+God of War,61.11,50,30.56,Game Awards,2023-01-01
+God of War,61.11,30,42.78,Steam Summer Sale,2023-03-09
+God of War,61.11,40,36.67,Steam Summer Sale,2023-05-29
+God of War,61.11,40,36.67,Steam Summer Sale,2023-07-21
+God of War,61.11,60,24.44,Winter Sale,2023-09-02
+God of War,61.11,20,48.89,Daily Deal,2023-10-02
+Assassin's Creed Valhalla,43.51,30,30.46,Steam Summer Sale,2023-01-01
+Assassin's Creed Valhalla,43.51,10,39.16,Game Awards,2023-03-08
+Assassin's Creed Valhalla,43.51,20,34.81,Publisher Weekend,2023-05-23
+Assassin's Creed Valhalla,43.51,40,26.11,Publisher Weekend,2023-08-16
+Assassin's Creed Valhalla,43.51,40,26.11,Daily Deal,2023-09-27
+Assassin's Creed Valhalla,43.51,20,34.81,Game Awards,2023-12-24
+Assassin's Creed Valhalla,43.51,50,21.76,Daily Deal,2024-02-12
+Assassin's Creed Valhalla,43.51,40,26.11,Winter Sale,2024-03-22
+Assassin's Creed Valhalla,43.51,40,26.11,Daily Deal,2024-06-14
+Assassin's Creed Valhalla,43.51,40,26.11,Game Awards,2024-07-14
+Palworld,54.91,60,21.96,Game Awards,2023-01-01
+Palworld,54.91,10,49.42,Game Awards,2023-02-21
+Palworld,54.91,30,38.44,Daily Deal,2023-04-15
+Palworld,54.91,60,21.96,Steam Summer Sale,2023-05-15
+Palworld,54.91,20,43.93,Winter Sale,2023-06-27
