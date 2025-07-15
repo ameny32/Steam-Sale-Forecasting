@@ -6,17 +6,20 @@ School: Rutgers University - New Brunswick
 
 
 Project Overview
+    
     This project analyzes historical video game pricing data to predict the best time to purchase games on Steam. It uses a synthetic but realistic dataset of sales events for 20 popular games. The application performs data cleaning, feature engineering, machine learning modeling, and dashboard visualization to support consumer decision-making.
 
 
 Objectives
+    
     Forecast future discount percentages using regression
     Predict whether a game will receive a high discount (≥40%) using classification
-    Visualize price trends, sale cycles, and event-driven discounts
+    Visualize price trends, sales cycles, and event-driven discounts
     Provide a user-friendly dashboard to help users decide whether to buy or wait
 
 
 Features
+    
     PostgreSQL database for structured data storage
     ETL pipeline with Pandas and SQLAlchemy
     Feature engineering: days_since_last_sale, discount_bin, is_major_event
@@ -80,8 +83,10 @@ Setup Instructions
 
 
 Project Demo
+    
     Watch the full demo video explaining the project setup, model training, and dashboard functionality:
     Link to Google Drive demo video
 
 License
+    
     This project is developed for educational purposes only and is not intended for commercial use.
