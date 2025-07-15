@@ -1,7 +1,11 @@
 Steam Sale Forecasting
+
 CS210: Data Management for Data Science - Final Project
+
 Author: Andrew Menyhert
+
 Semester: Summer 20253
+
 School: Rutgers University - New Brunswick
 
 
