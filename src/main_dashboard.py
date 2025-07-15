@@ -1,7 +1,5 @@
 # streamlit run src/main_dashboard.py
 
-# main_dashboard.py
-
 import streamlit as st
 import pandas as pd
 from sqlalchemy import create_engine
