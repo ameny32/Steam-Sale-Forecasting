@@ -27,19 +27,33 @@ Features
 
 File Structure
 .
+
 ├── data/
+
 │   └── large_mock_steam_sales.csv
+
 ├── outputs/
+
 │   ├── discount_timeline.png
+
 │   ├── discount_distribution.png
+
 │   └── discount_by_sale_type.png
+
 ├── src/
+
 │   ├── config.py
+
 │   ├── etl_pipeline.py
+
 │   ├── data_cleaning.py
+
 │   ├── model_training.py
+
 │   ├── visualize_results.py
+
 │   └── main_dashboard.py
+
 └── README.md
 
 
