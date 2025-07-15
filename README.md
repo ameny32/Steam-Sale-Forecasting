@@ -94,7 +94,7 @@ Setup Instructions
 Project Demo
     
     Watch the full demo video explaining the project setup, model training, and dashboard functionality:
-    Link to Google Drive demo video
+    (https://drive.google.com/file/d/1IkX5CBJltmMfke2Qq7VImVb37a8fA8Y3/view?usp=sharing) 
 
 License
     
