@@ -4,7 +4,7 @@ CS210: Data Management for Data Science - Final Project
 
 Author: Andrew Menyhert
 
-Semester: Summer 20253
+Semester: Summer 2025
 
 School: Rutgers University - New Brunswick
 
@@ -99,3 +99,4 @@ Project Demo
 License
     
     This project is developed for educational purposes only and is not intended for commercial use.
+
